@@ -1,0 +1,2 @@
+Your total amount of candies: 3
+Your total is: $5.25
