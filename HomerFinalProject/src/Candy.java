@@ -5,7 +5,7 @@ public class Candy {
 	int caloriesPerServing;
 	double cost;
 	
-	//Displaying the monster's information
+	//Displaying the candy's information
 	public void displayInfo() {
 		System.out.println("Candy name: " + name);
 		System.out.println("Candy color: " + color);
